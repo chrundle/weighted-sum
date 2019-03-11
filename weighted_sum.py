@@ -13,3 +13,5 @@ for i in range(len(x)):
 # Print summation
 print "sum = ", sum
 
+# Print summation using dot product
+print "sum with dot product = ", np.dot(w,x)
